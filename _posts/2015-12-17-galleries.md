@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A little trip to the Land of ice
-datePublished: '2015-12-17T05:30:00.406Z'
-dateModified: '2015-12-17T05:29:56.111Z'
+datePublished: '2015-12-17T05:35:53.592Z'
+dateModified: '2015-12-17T05:33:36.197Z'
 title: Iceland or Bust
 author: []
 sourcePath: _posts/2015-12-17-galleries.md
