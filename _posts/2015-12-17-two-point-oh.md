@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T05:45:58.425Z'
-dateModified: '2015-12-17T05:45:38.173Z'
+datePublished: '2015-12-17T05:54:18.867Z'
+dateModified: '2015-12-17T05:54:12.172Z'
 title: Two Point Oh
 author: []
 sourcePath: _posts/2015-12-17-two-point-oh.md
