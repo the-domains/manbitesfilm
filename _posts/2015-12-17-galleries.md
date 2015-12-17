@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A little trip to the Land of ice
-datePublished: '2015-12-17T05:17:35.612Z'
-dateModified: '2015-12-17T05:17:26.876Z'
+datePublished: '2015-12-17T05:24:21.738Z'
+dateModified: '2015-12-17T05:24:15.327Z'
 title: Iceland or Bust
 author: []
 sourcePath: _posts/2015-12-17-galleries.md
