@@ -1,0 +1,28 @@
+name: manbitesfilm
+favicon: null
+layout_spectrum: 0.6507192188873887
+typography_spectrum: 0.5707064669113606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4723432275932282
+  lightness: 0.15148398862220347
+  saturation: 0.016083949944004416
+  rhythmicContrast: 0.9225840740837157
+purpose: []
