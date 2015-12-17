@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T05:28:21.193Z'
-dateModified: '2015-12-17T05:26:57.817Z'
+datePublished: '2015-12-17T05:31:13.822Z'
+dateModified: '2015-12-17T05:31:10.226Z'
 title: Two Point Oh
 author: []
 sourcePath: _posts/2015-12-17-two-point-oh.md
