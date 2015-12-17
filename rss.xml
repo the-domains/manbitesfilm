@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Poking a Stick in the Mud...]]></title>
+        <description><![CDATA[Poking a Stick in the Mud...]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 04:57:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two Point Oh]]></title>
+            <description><![CDATA[<article><h1>Two Point Oh</h1><p>manbitesfilm 2.0 goes live</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d68da6639d58b272a7720bca2d2a502070975c1.jpg"></article>]]></description>
+            <link>undefinedtwo-point-oh/index.html</link>
+            <guid isPermaLink="false">8a2dbd62-0c5b-4f9f-971a-d1cd109b39b4</guid>
+            <pubDate>Thu, 17 Dec 2015 04:56:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
