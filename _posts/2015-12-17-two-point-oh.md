@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T06:06:34.938Z'
-dateModified: '2015-12-17T06:05:57.212Z'
+datePublished: '2015-12-17T06:10:36.034Z'
+dateModified: '2015-12-17T06:10:33.541Z'
 title: Two Point Oh
 author: []
 sourcePath: _posts/2015-12-17-two-point-oh.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: two-point-oh/index.html
+_type: Article
 
 ---
 **manbitesfilm two-point-oh goes live**
